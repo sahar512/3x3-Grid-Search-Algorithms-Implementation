@@ -72,6 +72,6 @@ Cost: 13
 2. Compile and run the program:
 3. The solution will be written to `output.txt`.
 
-## Folder Structure
+
 
 
