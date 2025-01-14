@@ -58,3 +58,20 @@ Num: 11
 Cost: 13
 0.002 seconds
 
+
+
+
+
+## Technologies
+- **Language**: Java
+- **Environment**: Default package, Java 23
+- **Tools**: Hash tables for open and closed lists (BFS, A*), stacks for IDA* and DFBnB.
+
+## How to Run
+1. Place `input.txt` in the same directory as the program.
+2. Compile and run the program:
+3. The solution will be written to `output.txt`.
+
+## Folder Structure
+
+
